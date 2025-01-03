@@ -1,0 +1,17 @@
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\bin\Debug\net8.0-windows\newshoppingCart.exe
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\bin\Debug\net8.0-windows\newshoppingCart.deps.json
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\bin\Debug\net8.0-windows\newshoppingCart.runtimeconfig.json
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\bin\Debug\net8.0-windows\newshoppingCart.dll
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\bin\Debug\net8.0-windows\newshoppingCart.pdb
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\obj\Debug\net8.0-windows\newshoppingCart.Form1.resources
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\obj\Debug\net8.0-windows\newshoppingCart.csproj.GenerateResource.cache
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\obj\Debug\net8.0-windows\newshoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\obj\Debug\net8.0-windows\newshoppingCart.AssemblyInfoInputs.cache
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\obj\Debug\net8.0-windows\newshoppingCart.AssemblyInfo.cs
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\obj\Debug\net8.0-windows\newshoppingCart.csproj.CoreCompileInputs.cache
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\obj\Debug\net8.0-windows\newshoppingCart.sourcelink.json
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\obj\Debug\net8.0-windows\newshoppingCart.dll
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\obj\Debug\net8.0-windows\refint\newshoppingCart.dll
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\obj\Debug\net8.0-windows\newshoppingCart.pdb
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\obj\Debug\net8.0-windows\newshoppingCart.genruntimeconfig.cache
+C:\git\newplayer-oop-lab00\ShoppingCart\newshoppingCart\newshoppingCart\obj\Debug\net8.0-windows\ref\newshoppingCart.dll
