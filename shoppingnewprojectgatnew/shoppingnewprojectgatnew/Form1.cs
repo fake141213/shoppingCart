@@ -49,10 +49,14 @@ namespace shoppingnewprojectgatnew
             textBox100.Text = "0";
             textBox50.Text = "0";
             textBox20.Text = "0";
-            textBox20.Text = "0";
             textBox10.Text = "0";
             textBox5.Text = "0";
             textBox1.Text = "0";
+            textBox0_50.Text = "0";
+            textBox0_25.Text = "0";
+            textBox0_10.Text = "0";
+            textBox0_1.Text = "0";
+            
 
 
         }
@@ -83,47 +87,47 @@ namespace shoppingnewprojectgatnew
             string strcash = tbcash.Text;
             string strchange = change.Text;
 
-            int icoffeep = 0;
-            int icoffeeq = 0;
-            int igreenteap = 0;
-            int igreenteaq = 0;
-            int cashh = 0;
-            int Changee = 0;
-            int noodlep = 0;
-            int noodleq = 0;
-            int pizzap = 0;
-            int pizzaq = 0;
+            double icoffeep = 0;
+            double icoffeeq = 0;
+            double igreenteap = 0;
+            double igreenteaq = 0;
+            double cashh = 0;
+            double Changee = 0;
+            double noodlep = 0;
+            double noodleq = 0;
+            double pizzap = 0;
+            double pizzaq = 0;
             double allf_b = 0, dev = 0, food = 0;
 
             try
             {
                 if (chbCoffee.Checked)
                 {
-                    icoffeep = int.Parse(strcoffeep);
-                    icoffeeq = int.Parse(strcoffeeq);
+                    icoffeep = double.Parse(strcoffeep);
+                    icoffeeq = double.Parse(strcoffeeq);
                 }
                 if (chbgreetea.Checked)
                 {
-                    igreenteap = int.Parse(strgreenteap);
-                    igreenteaq = int.Parse(strgreenteaq);
+                    igreenteap = double.Parse(strgreenteap);
+                    igreenteaq = double.Parse(strgreenteaq);
                 }
                 if (chbnoodle.Checked)
                 {
-                    noodlep = int.Parse(strnoodlep);
-                    noodleq = int.Parse(strnoodleq);
+                    noodlep = double.Parse(strnoodlep);
+                    noodleq = double.Parse(strnoodleq);
                 }
                 if (chbpizza.Checked)
                 {
-                    pizzap = int.Parse(strpizzap);
-                    pizzaq = int.Parse(strpizzaq);
+                    pizzap = double.Parse(strpizzap);
+                    pizzaq = double.Parse(strpizzaq);
                 }
                 if (tbcash.Created)
                 {
-                    cashh = int.Parse(strcash);
+                    cashh = double.Parse(strcash);
                 }
                 if (change.Created)
                 {
-                    Changee = int.Parse(strchange);
+                    Changee = double.Parse(strchange);
                 }
                 if (chcekfood.Checked)
                 {
@@ -154,18 +158,19 @@ namespace shoppingnewprojectgatnew
 
 
             }
-            int coff = icoffeep * icoffeeq;
-            int greetea = igreenteap * igreenteaq;
-            int noodlee = noodlep * noodleq;
-            int pizza = pizzap * pizzaq;
-            int sum = coff + greetea + noodlee + pizza;
-            int chage = cashh - sum;
+            double coff = icoffeep * icoffeeq;
+            double greetea = igreenteap * igreenteaq;
+            double noodlee = noodlep * noodleq;
+            double pizza = pizzap * pizzaq;
+            double sum = coff + greetea + noodlee + pizza;
+            double chage = cashh - sum;
             double discountAmount = 0;
             try
             {
                 if (chall.Checked)
                 {
-                    allf_b = double.Parse(tball.Text) / 100.0;
+                    allf_b = int.Parse(tball.Text);
+  
                 }
                 if (checkbeverage.Checked)
                 {
@@ -195,67 +200,93 @@ namespace shoppingnewprojectgatnew
 
             tbtotal.Text = sum.ToString();
 
-            int changeAmount = cashh - sum;
-            change.Text = changeAmount.ToString();
+            double changeAmount = cashh - sum;
+            change.Text = changeAmount.ToString("F2");
 
 
-            int thousand = 0;
-            int five_hundred = 0;
-            int one_hunred = 0;
-            int fifty = 0;
-            int twenty = 0;
-            int ten = 0;
-            int five = 0;
-            int one = 0;
+            double thousand = 0;
+            double five_hundred = 0;
+            double one_hunred = 0;
+            double fifty = 0;
+            double twenty = 0;
+            double ten = 0;
+            double five = 0;
+            double one = 0;
+            double fiftyCents = 0, twentyFiveCents = 0, tenCents = 0, oneCent = 0;
 
             if (chage >= 1000)
             {
-                thousand = chage / 1000;
+                thousand = (int)chage / 1000;
                 chage = chage % 1000;
                 textBox1000.Text = thousand.ToString();
             }
             if (chage >= 500)
             {
-                five_hundred = chage / 500;
+                five_hundred = (int)chage / 500;
                 chage = chage % 500;
                 textBox500.Text = five_hundred.ToString();
             }
             if (chage >= 100)
             {
-                one_hunred = chage / 100;
+                one_hunred = (int)chage / 100;
                 chage = chage % 100;
                 textBox100.Text = one_hunred.ToString();
             }
             if (chage >= 50)
             {
-                fifty = chage / 50;
+                fifty = (int)chage / 50;
                 chage = chage % 50;
                 textBox50.Text = fifty.ToString();
             }
             if (chage >= 20)
             {
-                twenty = chage / 20;
+                twenty = (int)chage / 20;
                 chage = chage % 20;
                 textBox20.Text = twenty.ToString();
             }
             if (chage >= 10)
             {
-                ten = chage / 10;
+                ten = (int)chage / 10;
                 chage = chage % 10;
                 textBox10.Text = ten.ToString();
             }
             if (chage >= 5)
             {
-                five = chage / 5;
+                five = (int)chage / 5;
                 chage = chage % 5;
-                textBox10.Text = five.ToString();
+                textBox5.Text = five.ToString();
             }
             if (chage >= 1)
             {
-                one = chage / 1;
+                one = (int)chage / 1;
                 chage = chage % 1;
                 textBox1.Text = one.ToString();
             }
+            if (chage >= 0.50)
+            {
+                fiftyCents = (int)(chage / 0.50);
+                chage %= 0.50;
+                textBox0_50.Text = fiftyCents.ToString();
+            }
+            if (chage >= 0.25)
+            {
+                twentyFiveCents = (int)(chage / 0.25);
+                chage %= 0.25;
+                textBox0_25.Text = twentyFiveCents.ToString();
+            }
+            if (chage >= 0.10)
+            {
+                tenCents = (int)(chage / 0.10);
+                chage %= 0.10;
+                textBox0_10.Text = tenCents.ToString();
+            }
+            if (chage >= 0.01)
+            {
+                oneCent = (int)(chage / 0.01);
+                chage %= 0.01;
+                textBox0_1.Text = oneCent.ToString();
+            }
+
 
 
         }
@@ -329,12 +360,12 @@ namespace shoppingnewprojectgatnew
             if (chall.Checked)
             {
                 tball.Enabled = true;
-                tball.Enabled = true;
+                
             }
             if (!chall.Checked)
             {
                 tball.Enabled = false;
-                tball.Enabled = false;
+                
             }
         }
 

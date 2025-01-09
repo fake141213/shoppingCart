@@ -87,6 +87,18 @@
             label23 = new Label();
             label24 = new Label();
             check_out = new Button();
+            label27 = new Label();
+            label28 = new Label();
+            label29 = new Label();
+            label30 = new Label();
+            textBox0_50 = new TextBox();
+            textBox0_25 = new TextBox();
+            textBox0_10 = new TextBox();
+            textBox0_1 = new TextBox();
+            label31 = new Label();
+            label32 = new Label();
+            label33 = new Label();
+            label34 = new Label();
             chbbeverge.SuspendLayout();
             chbfood.SuspendLayout();
             groupBox3.SuspendLayout();
@@ -616,11 +628,123 @@
             check_out.UseVisualStyleBackColor = true;
             check_out.Click += check_out_Click;
             // 
+            // label27
+            // 
+            label27.AutoSize = true;
+            label27.Location = new Point(511, 405);
+            label27.Name = "label27";
+            label27.Size = new Size(36, 20);
+            label27.TabIndex = 55;
+            label27.Text = "0.50";
+            // 
+            // label28
+            // 
+            label28.AutoSize = true;
+            label28.Location = new Point(512, 435);
+            label28.Name = "label28";
+            label28.Size = new Size(36, 20);
+            label28.TabIndex = 56;
+            label28.Text = "0.25";
+            // 
+            // label29
+            // 
+            label29.AutoSize = true;
+            label29.Location = new Point(511, 467);
+            label29.Name = "label29";
+            label29.Size = new Size(36, 20);
+            label29.TabIndex = 57;
+            label29.Text = "0.10";
+            // 
+            // label30
+            // 
+            label30.AutoSize = true;
+            label30.Location = new Point(518, 501);
+            label30.Name = "label30";
+            label30.Size = new Size(28, 20);
+            label30.TabIndex = 58;
+            label30.Text = "0.1";
+            // 
+            // textBox0_50
+            // 
+            textBox0_50.Location = new Point(562, 402);
+            textBox0_50.Name = "textBox0_50";
+            textBox0_50.Size = new Size(125, 27);
+            textBox0_50.TabIndex = 59;
+            // 
+            // textBox0_25
+            // 
+            textBox0_25.Location = new Point(562, 435);
+            textBox0_25.Name = "textBox0_25";
+            textBox0_25.Size = new Size(125, 27);
+            textBox0_25.TabIndex = 60;
+            // 
+            // textBox0_10
+            // 
+            textBox0_10.Location = new Point(562, 468);
+            textBox0_10.Name = "textBox0_10";
+            textBox0_10.Size = new Size(125, 27);
+            textBox0_10.TabIndex = 61;
+            // 
+            // textBox0_1
+            // 
+            textBox0_1.Location = new Point(562, 501);
+            textBox0_1.Name = "textBox0_1";
+            textBox0_1.Size = new Size(125, 27);
+            textBox0_1.TabIndex = 62;
+            // 
+            // label31
+            // 
+            label31.AutoSize = true;
+            label31.Location = new Point(693, 405);
+            label31.Name = "label31";
+            label31.Size = new Size(48, 20);
+            label31.TabIndex = 63;
+            label31.Text = "สตางค์";
+            // 
+            // label32
+            // 
+            label32.AutoSize = true;
+            label32.Location = new Point(693, 438);
+            label32.Name = "label32";
+            label32.Size = new Size(48, 20);
+            label32.TabIndex = 64;
+            label32.Text = "สตางค์";
+            // 
+            // label33
+            // 
+            label33.AutoSize = true;
+            label33.Location = new Point(693, 471);
+            label33.Name = "label33";
+            label33.Size = new Size(48, 20);
+            label33.TabIndex = 65;
+            label33.Text = "สตางค์";
+            // 
+            // label34
+            // 
+            label34.AutoSize = true;
+            label34.Location = new Point(693, 504);
+            label34.Name = "label34";
+            label34.Size = new Size(48, 20);
+            label34.TabIndex = 66;
+            label34.Text = "สตางค์";
+            // 
             // POS
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(800, 539);
+            Controls.Add(label34);
+            Controls.Add(label33);
+            Controls.Add(label32);
+            Controls.Add(label31);
+            Controls.Add(textBox0_1);
+            Controls.Add(textBox0_10);
+            Controls.Add(textBox0_25);
+            Controls.Add(textBox0_50);
+            Controls.Add(label30);
+            Controls.Add(label29);
+            Controls.Add(label28);
+            Controls.Add(label27);
             Controls.Add(label24);
             Controls.Add(label23);
             Controls.Add(label22);
@@ -734,5 +858,17 @@
         private Label label23;
         private Label label24;
         private Button check_out;
+        private Label label27;
+        private Label label28;
+        private Label label29;
+        private Label label30;
+        private TextBox textBox0_50;
+        private TextBox textBox0_25;
+        private TextBox textBox0_10;
+        private TextBox textBox0_1;
+        private Label label31;
+        private Label label32;
+        private Label label33;
+        private Label label34;
     }
 }
