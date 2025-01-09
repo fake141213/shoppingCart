@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("shoppingnewprojectgatnew")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c52e2c8e8a8844bc0363e14294eff50e4369002a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba9a75141b31196a6e0a4fce6b792c9ba52aa97f")]
 [assembly: System.Reflection.AssemblyProductAttribute("shoppingnewprojectgatnew")]
 [assembly: System.Reflection.AssemblyTitleAttribute("shoppingnewprojectgatnew")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
