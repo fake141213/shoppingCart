@@ -1,0 +1,17 @@
+C:\git\shoppingCart\fruitshop\fruitshop\bin\Debug\net8.0-windows\fruitshop.exe
+C:\git\shoppingCart\fruitshop\fruitshop\bin\Debug\net8.0-windows\fruitshop.deps.json
+C:\git\shoppingCart\fruitshop\fruitshop\bin\Debug\net8.0-windows\fruitshop.runtimeconfig.json
+C:\git\shoppingCart\fruitshop\fruitshop\bin\Debug\net8.0-windows\fruitshop.dll
+C:\git\shoppingCart\fruitshop\fruitshop\bin\Debug\net8.0-windows\fruitshop.pdb
+C:\git\shoppingCart\fruitshop\fruitshop\obj\Debug\net8.0-windows\fruitshop.Form1.resources
+C:\git\shoppingCart\fruitshop\fruitshop\obj\Debug\net8.0-windows\fruitshop.csproj.GenerateResource.cache
+C:\git\shoppingCart\fruitshop\fruitshop\obj\Debug\net8.0-windows\fruitshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\shoppingCart\fruitshop\fruitshop\obj\Debug\net8.0-windows\fruitshop.AssemblyInfoInputs.cache
+C:\git\shoppingCart\fruitshop\fruitshop\obj\Debug\net8.0-windows\fruitshop.AssemblyInfo.cs
+C:\git\shoppingCart\fruitshop\fruitshop\obj\Debug\net8.0-windows\fruitshop.csproj.CoreCompileInputs.cache
+C:\git\shoppingCart\fruitshop\fruitshop\obj\Debug\net8.0-windows\fruitshop.sourcelink.json
+C:\git\shoppingCart\fruitshop\fruitshop\obj\Debug\net8.0-windows\fruitshop.dll
+C:\git\shoppingCart\fruitshop\fruitshop\obj\Debug\net8.0-windows\refint\fruitshop.dll
+C:\git\shoppingCart\fruitshop\fruitshop\obj\Debug\net8.0-windows\fruitshop.pdb
+C:\git\shoppingCart\fruitshop\fruitshop\obj\Debug\net8.0-windows\fruitshop.genruntimeconfig.cache
+C:\git\shoppingCart\fruitshop\fruitshop\obj\Debug\net8.0-windows\ref\fruitshop.dll

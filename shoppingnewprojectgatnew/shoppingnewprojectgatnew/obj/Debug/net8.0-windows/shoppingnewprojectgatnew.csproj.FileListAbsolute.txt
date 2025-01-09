@@ -1,0 +1,17 @@
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\bin\Debug\net8.0-windows\shoppingnewprojectgatnew.exe
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\bin\Debug\net8.0-windows\shoppingnewprojectgatnew.deps.json
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\bin\Debug\net8.0-windows\shoppingnewprojectgatnew.runtimeconfig.json
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\bin\Debug\net8.0-windows\shoppingnewprojectgatnew.dll
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\bin\Debug\net8.0-windows\shoppingnewprojectgatnew.pdb
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\obj\Debug\net8.0-windows\shoppingnewprojectgatnew.POS.resources
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\obj\Debug\net8.0-windows\shoppingnewprojectgatnew.csproj.GenerateResource.cache
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\obj\Debug\net8.0-windows\shoppingnewprojectgatnew.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\obj\Debug\net8.0-windows\shoppingnewprojectgatnew.AssemblyInfoInputs.cache
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\obj\Debug\net8.0-windows\shoppingnewprojectgatnew.AssemblyInfo.cs
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\obj\Debug\net8.0-windows\shoppingnewprojectgatnew.csproj.CoreCompileInputs.cache
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\obj\Debug\net8.0-windows\shoppingnewprojectgatnew.sourcelink.json
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\obj\Debug\net8.0-windows\shoppingnewprojectgatnew.dll
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\obj\Debug\net8.0-windows\refint\shoppingnewprojectgatnew.dll
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\obj\Debug\net8.0-windows\shoppingnewprojectgatnew.pdb
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\obj\Debug\net8.0-windows\shoppingnewprojectgatnew.genruntimeconfig.cache
+C:\git\shoppingCart\shoppingnewprojectgatnew\shoppingnewprojectgatnew\obj\Debug\net8.0-windows\ref\shoppingnewprojectgatnew.dll
